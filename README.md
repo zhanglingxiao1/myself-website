@@ -1,6 +1,6 @@
 # myself-website
 
- install node /t
- open CMD 'npm install gulp -g' /t
- In the file root directory open CMD 'npm install' /t
- In the file root directory open CMD 'gulp' /t
+ # install node 
+ # open CMD 'npm install gulp -g' 
+ # In the file root directory open CMD 'npm install' 
+ # In the file root directory open CMD 'gulp' 
